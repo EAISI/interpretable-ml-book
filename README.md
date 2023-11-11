@@ -1,6 +1,6 @@
 # Interpretable machine learning
 
-Explaining the decisions and behaviour of machine learning models.
+Explaining the decisions and behaviour of machine learning models. This fork publishes the curriculum under [https://masteringdata.ai/interpretable-ml-book](https://masteringdata.ai/interpretable-ml-book).
 
 ![Build Status](https://github.com/christophM/interpretable-ml-book/actions/workflows/Book.yaml/badge.svg)
 
